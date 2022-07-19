@@ -16,7 +16,7 @@ export const DISHES =
 	image: '/assets/images/zucchipakoda.png',
 	category: 'appetizer',
 	label:'',
-	price:'1.99',
+	price:'3.99',
 	featured: false,
 	description:'Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce'
 	},
