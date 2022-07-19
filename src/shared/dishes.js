@@ -32,7 +32,7 @@ export const DISHES =
 	},
 	{
 	id: 3,
-	name:'ElaiCheese Cake',
+	name:'ElaiCheese CAkes',
 	image: '/assets/images/elaicheesecake.png',
 	category: 'dessert',
 	label:'',
