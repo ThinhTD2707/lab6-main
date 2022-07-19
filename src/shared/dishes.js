@@ -17,7 +17,7 @@ export const DISHES =
 	category: 'appetizer',
 	label:'',
 	price:'3.99',
-	featured: true,
+	featured: false,
 	description:'Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce'
 	},
 	{
@@ -36,7 +36,7 @@ export const DISHES =
 	image: '/assets/images/elaicheesecake.png',
 	category: 'dessert',
 	label:'',
-	price:'2.99',
+	price:'5.99',
 	featured: false,
 	description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms'
 	}
